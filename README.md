@@ -2,7 +2,9 @@
 
 This comprehensive guide is designed as a high-level technical blog post or portfolio case study. It demonstrates your ability to navigate the full lifecycle of a cloud-hosted application on **AWS EC2**, from writing performant code to implementing enterprise-grade process management and data recovery.
 
----
+
+<img width="1589" height="719" alt="image" src="https://github.com/user-attachments/assets/61b694bb-54af-4945-80e8-0adfabf80c6c" />
+
 
 
 ## Executive Summary
@@ -221,6 +223,14 @@ This section we will create the UI. The UI is a **Single Page Application (SPA)*
 * `npm init -y`
 * `npm install`
 * `node app.js`
+
+You should see this on the terminal
+
+<img width="748" height="83" alt="image" src="https://github.com/user-attachments/assets/08b2d875-8ae9-40fa-bbfd-a6cf934f768d" />
+
+
+<img width="1766" height="161" alt="image" src="https://github.com/user-attachments/assets/f3188436-7b94-4571-ab21-ba7dc03eb577" />
+
 
 * Next thing is to either use curl or we navigate to the browser and test using `http://127.0.0.1:{used-port}`
 
